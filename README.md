@@ -25,7 +25,7 @@
 
 <br/>
 
-[Live Demo](#) · [Report a Bug](../../issues) · [Request a Feature](../../issues)
+[Live Demo](https://techhgirlie.github.io/studyai/) · [Report a Bug](../../issues) · [Request a Feature](../../issues)
 
 <br/>
 
